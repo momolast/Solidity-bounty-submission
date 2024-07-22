@@ -7,7 +7,8 @@
 ## Function Analysis
 
 ## Code
-![Snapshot]()
+![Snapshot](momo_snap.png)
+
 
 - **Used encoding function**: abi.encode
 - **Function Name**: permit
